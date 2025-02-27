@@ -26,7 +26,7 @@
  <img alt="Mockito" src="https://img.shields.io/badge/Testcontainers-orange"/>
   <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-white?logo=postgresql&logoColor=grey"/>
   <img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-red?logo=liquibase&logoColor=white"/>
-  <img alt="FlyWay" src="https://img.shields.io/badge/FlyWay?logo=liquibase&logoColor=white"/>
+  <img alt="FlyWay" src="https://img.shields.io/badge/FlyWay-red?logo=flyway&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-f1618c?logo=postman&logoColor=white"/>
   <img alt="IntellijIDEA" src="https://img.shields.io/badge/IntelliJIDEA-143?style=flat-square&logo=intellij-idea&logoColor=white&color=grey"/>
   <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white"/>
