@@ -42,8 +42,7 @@
 
 ### You can find me there:
 
-[![gmail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][gmail]
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-282c34?style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
+[![mail](https://img.shields.io/badge/-mail-282c34?style=for-the-badge&logo=gmail)][mail]
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)][telegram]
 
 
@@ -52,6 +51,5 @@
 
 
 
-[gmail]: sggavrilchik@gmail.com
-[linkedin]: https://www.linkedin.com/in/siarhei-haurylchyk-865833247/
-[telegram]: https://t.me/siarheihaurylchyk
+[mail]: uvays_ramazanov@mail.com
+[telegram]: https://t.me/Dag_Developer
