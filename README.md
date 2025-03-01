@@ -35,9 +35,9 @@
 
 ### 💹 Stats
 <div id="stat" align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiarheiHaurylchyk&theme=transparent" width="842" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiarheiHaurylchyk&theme=transparent" width="420" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SiarheiHaurylchyk&theme=transparent" width="420" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UvaysRamazanov&theme=transparent" width="842" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UvaysRamazanov&theme=transparent" width="420" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UvaysRamazanov&theme=transparent" width="420" alt=""/>
 </div>
 
 ### You can find me there:
